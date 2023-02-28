@@ -106,12 +106,47 @@ export const info = {
   },
 
   projects: [
-    // {
-    //   title: "Astro Portfolio",
-    //   isFeatured: true,
-    //   thumbnail: "/assets/images/astro-portfolio.png",
-    //   githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-    //   liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-    // },
+    {
+      title: "On da boat",
+      isFeatured: true,
+      thumbnail: "/assets/images/onBoat.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+    {
+      title: "Getting some air",
+      isFeatured: true,
+      thumbnail: "/assets/images/skiJump_auto_x2.jpg",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+    {
+      title: "Sailing the Aeonian Sea",
+      isFeatured: true,
+      thumbnail: "/assets/images/sailing.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+    {
+      title: "With the family",
+      isFeatured: true,
+      thumbnail: "/assets/images/coveredBridge.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+    {
+      title: "Cooking up some house",
+      isFeatured: true,
+      thumbnail: "/assets/images/DJ.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+    {
+      title: "Getting down low",
+      isFeatured: true,
+      thumbnail: "/assets/images/skiing.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
   ],
 };
