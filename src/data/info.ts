@@ -93,6 +93,7 @@ export const info = {
       startDate: "Aug 2016",
       endDate: "Jun 2020",
       description: ["✓ Advanced Studies Diploma",
+                    "✓ Sports: Ski Racing, Cross-Country, Track & Field"
     ],
     },
   ],
