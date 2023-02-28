@@ -20,7 +20,7 @@ const featureProjects = info.projects.map((project, index) => {
     <MetaHead
       title={"Portfolio"}
       description={info.about}
-      ogImageUrl={"/assets/images/profile.png"}
+      ogImageUrl={"/assets/images/bitmojis/sunglasses.png"}
     />
   </head>
 
@@ -30,7 +30,29 @@ const featureProjects = info.projects.map((project, index) => {
       <Experience title={"EXPERIENCE"} details={info.experience} />
       <Experience title={"EDUCATION"} details={info.education} />
       <section>
-        
+        <h2 class="w-[15rem] dark:text-light mt-16">THE ELIXER OF LIFE:)</h2>
+        <ProjectsWrapper projects={featureProjects} />
+         <!-- write a section title here -->
+
+        <div class="grid md:grid-cols-2 grid-cols-1 gap-4 my-16">
+          
+          <video width="525" height="300" controls>
+            <source src="/assets/video/square/succession.mov" type="video/mp4">
+          </video>
+         
+          <video width="525" height="300" controls>
+            <source src="/assets/video/square/interstellar.mov" type="video/mp4">
+          </video>
+        </div>
+        <div class="grid md:grid-cols-2 grid-cols-1 gap-4 mt-0 mb-0">
+          
+          <video width="525" height="300" controls>
+            <source src="/assets/video/square/clair.mov" type="video/mp4">
+          </video>
+          <video width="525" height="300" controls>
+            <source src="/assets/video/square/godfather.mov" type="video/mp4">
+          </video>
+        </div>
       </section>
     </Layout>
   </body>
