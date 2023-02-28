@@ -20,7 +20,7 @@ const featureProjects = info.projects.map((project, index) => {
     <MetaHead
       title={"Portfolio"}
       description={info.about}
-      ogImageUrl={"/assets/images/profile.png"}
+      ogImageUrl={"/assets/images/bitmojis/sunglasses.png"}
     />
   </head>
 
@@ -30,7 +30,8 @@ const featureProjects = info.projects.map((project, index) => {
       <Experience title={"EXPERIENCE"} details={info.experience} />
       <Experience title={"EDUCATION"} details={info.education} />
       <section>
-        
+        <h2 class="w-[15rem] dark:text-light mt-16">A PEEK INTO MY LIFE:)</h2>
+        <ProjectsWrapper projects={featureProjects} />
       </section>
     </Layout>
   </body>
