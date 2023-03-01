@@ -127,9 +127,9 @@ export const info = {
       thumbnail: "/assets/images/coveredBridge.png",
      },
     {
-      title: "Cooking up some house",
+      title: "Friends",
       isFeatured: true,
-      thumbnail: "/assets/images/DJ.png",
+      thumbnail: "/assets/images/northCaptivaBeach.png",
       },
     {
       title: "Getting down low",
