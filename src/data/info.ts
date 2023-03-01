@@ -107,7 +107,7 @@ export const info = {
 
   projects: [
     {
-      title: "On da boat",
+      title: "On the sea",
       isFeatured: true,
       thumbnail: "/assets/images/onBoat.png",
      },
@@ -127,9 +127,9 @@ export const info = {
       thumbnail: "/assets/images/coveredBridge.png",
      },
     {
-      title: "Friends",
+      title: "Children's Hospital Fundraiser",
       isFeatured: true,
-      thumbnail: "/assets/images/northCaptivaBeach.png",
+      thumbnail: "/assets/images/galaDarien.png",
       },
     {
       title: "Getting down low",
