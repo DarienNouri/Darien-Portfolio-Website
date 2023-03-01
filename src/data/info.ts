@@ -109,32 +109,32 @@ export const info = {
     {
       title: "On the sea",
       isFeatured: true,
-      thumbnail: "https://d3r79mq1hy3e5j.cloudfront.net/onBoat.png",
+      thumbnail: "/assets/images/onBoat.png",
      },
     {
       title: "Getting some air",
       isFeatured: true,
-      thumbnail: "https://d3r79mq1hy3e5j.cloudfront.net/skiJump_auto_x2.jpg",
+      thumbnail: "/assets/images/skiJump_auto_x2.jpg",
       },
     {
       title: "Sailing the Aeonian Sea",
       isFeatured: true,
-      thumbnail: "https://d3r79mq1hy3e5j.cloudfront.net/sailing.png",
+      thumbnail: "/assets/images/sailing.png",
      },
     {
       title: "With the family",
       isFeatured: true,
-      thumbnail: "https://d3r79mq1hy3e5j.cloudfront.net/coveredBridge.png",
+      thumbnail: "/assets/images/coveredBridge.png",
      },
     {
       title: "Children's Hospital Fundraiser",
       isFeatured: true,
-      thumbnail: "https://d3r79mq1hy3e5j.cloudfront.net/galaDarien.png",
+      thumbnail: "/assets/images/galaDarien.png",
       },
     {
       title: "Getting down low",
       isFeatured: true,
-      thumbnail: "https://d3r79mq1hy3e5j.cloudfront.net/skiing.png",
+      thumbnail: "/assets/images/skiing.png",
     },
   ],
 };
