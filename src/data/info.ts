@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Darien Nouri",
   jobDescription: "Data Scientist",
-  about: `I am a currently a student at New York University dual-majoring in Data Science and Computer Science. I am a results-oriented individual with a 
+  about: `I am currently a student at New York University dual-majoring in Data Science and Computer Science. I am a results-oriented individual with a 
   demonstrated track record of designing and developing ML frameworks,
   data pipelines, and business intelligence tools. 
   The power in influencing the future is the drive that propels my pursuit to identify, design, and develop 
