@@ -1,4 +1,4 @@
-# Portfolio Website - Astro
+
 # Portfolio Website Structure
 
 ```
