@@ -114,7 +114,7 @@ export const info = {
       thumbnail: "/assets/images/skiJump_auto_x2.jpg",
       },
     {
-      title: "Sailing the Aeonian Sea",
+      title: "Sailing the Ionian",
       isFeatured: true,
       thumbnail: "/assets/images/sailing.png",
      },
@@ -131,7 +131,7 @@ export const info = {
     {
       title: "Getting down low",
       isFeatured: true,
-      thumbnail: "/assets/images/skiing.png",
+      thumbnail: "/assets/images/Skiing.png",
     },
   ],
 };
