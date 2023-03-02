@@ -126,7 +126,7 @@ export const info = {
     {
       title: "Children's Hospital Fundraiser",
       isFeatured: true,
-      thumbnail: "/assets/images/galaDarien.png",
+      thumbnail: "/assets/images/GalaDarien.png",
       },
     {
       title: "Getting down low",
