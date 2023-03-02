@@ -32,9 +32,6 @@ export const info = {
       endDate: "Present",
       description: [
         "✓ Under the direction of Professor Anasse Bari, Undergoing collaborative research connecting multiple alternative data sources to detect early signals and forward insights into the election.",
-        "✓ Collecting and analyzing Google Search Trends and millions of Twitter tweets, Reddit posts, and news headlines related to the 2024 presidential race.",
-        "✓ Applying sentiment analysis algorithms such as Stanford NLP and NLTK to examine attitudes towards nominees.",
-        "✓ Researching novel methods of Sentiment Analysis using GPT-3’s open API with early results demonstrating a 50% increase in sentiment accuracy over NLTK sentiment analysis."
       ],
     },
 
